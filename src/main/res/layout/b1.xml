@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KEMBALI" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="409dp"
+            android:layout_height="251dp"
+            android:text='Penghina Ustaz Abdul Somad Seperti Dajjal Kini Jadi Tersangka  Jakarta, CNN Indonesia -- Direktorat Reserse Kriminal Khusus Kepolisian Daerah Riau menetapkan JB, seorang warga Pekanbaru sebagai tersangka karena menghina ulama kondang asal Riau Ustaz Abdul Somad (UAS) melalui unggahannya di media sosial Facebook.  Kepala Bidang Humas Polda Riau, Kombes Pol Sunarto menjelaskan JB alias Jony Boyok ditetapkan sebagai tersangka setelah penyidik melakukan gelar perkara kasus tersebut hari ini.  "Gelar perkara sudah selesai. Terlapor ditetapkan sebagai tersangka," kata Sunarto seperti dilaporkan Antara, Senin (8/10).   Meski telah ditetapkan sebagai tersangka, penyidik Ditreskrimsus Polda Riau dipastikan tidak akan menahan pria berusia 47 tersebut. Sunarto mengatakan ancaman hukuman tersangka yang dijerat dengan Undang-Undang Informasi dan Transaksi dibawah lima tahun sehinga tidak perlu dilakukan penahanan.'
+            android:textAlignment="viewStart" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text='"Ancaman hukumannya dibawah lima tahun sehingga tidak dilakukan penahanan," tuturnya.  Terpisah, Direktur Reserse Kriminal Khusus Polda Riau Kombes Pol Arif Gidion Setiawan menjelaskan bahwa tersangka JB dijerat dengan Pasal Penghinaan dan Pencemaran nama baik.  "Pencemaran nama baik dan penghinaan," ujarnya singkat.  JB yang diketahui merupakan pengusaha di Kota Pekanbaru itu sebelumnya menyedot perhatian publik Bumi Lancang Kuning. Bukan karena prestasinya, namun karena unggahan provokatif yang ditulis di media sosial Facebook miliknya.  Dalam unggahannya, JB menyebut UAS seperti Dajjal. JB juga menyebut ustaz kondang yang aktif berdakwah melalui berbagai media sosial tersebut sebagai sosok jahat yang tidak pantas jadi panutan.' />
+
+    </LinearLayout>
+</LinearLayout>
